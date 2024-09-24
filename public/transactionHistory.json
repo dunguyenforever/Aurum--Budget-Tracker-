@@ -1,0 +1,50 @@
+{
+    "2024-09-22": [
+        {
+            "type": "Income",
+            "amount": 333,
+            "category": "Salary",
+            "time": "2024-09-22T18:00:00"
+        }
+    ],
+    "2024-09-21": [
+        {
+            "type": "Income",
+            "amount": 400,
+            "category": "Investment",
+            "time": "2024-09-22T18:00:00"
+        }
+    ],
+    "2024-09-20": [
+        {
+            "type": "Income",
+            "amount": 123,
+            "category": "Gift",
+            "time": "2024-09-22T18:00:00"
+        }
+    ],
+    "2024-09-19": [
+        {
+            "type": "Expense",
+            "amount": 999,
+            "category": "Entertainment",
+            "time": "2024-09-22T18:00:00"
+        }
+    ],
+    "2024-09-18": [
+        {
+            "type": "Expense",
+            "amount": 575,
+            "category": "Housing",
+            "time": "2024-09-22T18:00:00"
+        }
+    ],
+    "2024-09-17": [
+        {
+            "type": "Income",
+            "amount": 1000,
+            "category": "Salary",
+            "time": "2024-09-22T18:00:00"
+        }
+    ]
+}

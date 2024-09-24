@@ -1,0 +1,18 @@
+{
+    "incomeCategories": [
+      "Salary",
+      "Freelance",
+      "Investments",
+      "Rental Income",
+      "Gifts"
+    ],
+    "expenseCategories": [
+      "Rent",
+      "Groceries",
+      "Utilities",
+      "Transportation",
+      "Entertainment",
+      "Healthcare",
+      "Dining Out"
+    ]
+  }
