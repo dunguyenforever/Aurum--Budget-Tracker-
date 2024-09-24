@@ -1,3 +1,20 @@
+# Aurum 
+
+A simple, intuitive budget-tracking website built using Svelte. This app helps you manage your finances by tracking income, expenses, and budgets, giving you a clear financial health overview.
+
+## Features:
+- Add and categorize income and expenses
+- View detailed spending summaries
+- Set monthly budgets and track progress
+- Visualize financial data with charts and graphs (powered by Chart.js)
+- Responsive design using Svelte Bootstrap
+- Lightweight and fast, leveraging Svelte's reactive framework
+
+## Tech Stack:
+- **Frontend**: Svelte, Chart.js, Svelte Bootstrap
+- **Backend**: None
+
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
